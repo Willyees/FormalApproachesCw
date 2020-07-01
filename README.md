@@ -18,4 +18,4 @@ Project split mainly in 4 sections: oxygen, door, reactor and submarine. (torped
 – If the oxygen runs low, a warning must be shown.
 – Submarine cannot dive beneath a certain depth.
 
-More details can be found on the [report](https://github.com/Willyees/FormalApproachesCw/blob/main/src/40212064.pdf).
+More details can be found on the [report](https://github.com/Willyees/FormalApproachesCw/blob/main/40212064.pdf).
